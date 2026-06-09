@@ -1,0 +1,5 @@
+dataset/
+trainer.yml
+attendance.csv
+__pycache__/
+*.pyc
